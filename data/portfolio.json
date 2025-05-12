@@ -3,14 +3,14 @@
     "id": 1,
     "title": "Dell Handout",
     "category": "print",
-    "image": "/images/Design/Print-1.jpg",
+    "image": "/public/images/Design/Print-1.jpg",
     "tags": ["handout"]
   },
   {
     "id": 2,
     "title": "Thriv Table Tente",
     "category": "print",
-    "image": "/images/Design/Print-2.jpg",
+    "image": "../public/images/Design/Print-2.jpg",
     "tags": ["tente"]
   },
   {
