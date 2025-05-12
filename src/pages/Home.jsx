@@ -41,7 +41,7 @@ const Home = ({ onSelectItem, items }) => {
 
       <section className="banner-section">
         <img
-          src="../images/Home/Typography.png"
+          src="https://github.com/Rajablanca101/mourad-portfolio/blob/main/public/images/Home/Typography.png"
           alt="Typography skills"
           className="full-width-image"
         />
